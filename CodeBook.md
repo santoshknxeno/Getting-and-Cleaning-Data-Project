@@ -1,4 +1,5 @@
 CodeBook
+CodeBook
 This is a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data.
 
 The data source
@@ -57,4 +58,4 @@ Load both test and train data
 Load the features and activity labels.
 Extract the mean and standard deviation column names and data.
 Process the data. There are two parts processing test and train data respectively.
-Merge data set.
+Merge data set
